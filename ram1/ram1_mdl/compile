@@ -1,0 +1,1 @@
+WINEARCH=win32 WINEPREFIX=/home/j03l/.local/share/wineprefixes/wine32 wine "/home/j03l/Documents/mdlcompile/bin/studiomdl.exe" -game "/home/j03l/Documents/mdlcompile/usermod" /home/j03l/Documents/hl2_models/ram1/ram1_mdl/ram1.qc
